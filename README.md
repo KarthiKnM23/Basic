@@ -1,2 +1,2 @@
 # Basic
-First Git Project
+First Git Project - Beginner
